@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d4965a5b0e58eb742ed05f9b4689d5bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4d290600a62741aabb3eb471d18e70e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/eb111a37c9900a23675bd5b7e0b6ba33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c1e36f60d61fc86acabee55f0f81bb38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4b9e94bcceda53bebf643a2de145e412/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5de403af7b048e0a3da3d518437ba1e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6b8069c45d95127d9ab41e4f4820bcf1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/yuliy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ba75abbf7ef8b9b51dda04dcb7406ca5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/yuliy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2b2260e5bb1e490257d4a042c0406871/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/yuliy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8bac10b35f07a2e2005d33286c0ed7b4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/yuliy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e004520c7227085676e16c7df578fe46/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml
+		ADDED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml
+		ADDED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:5:5-18:19
+	android:supportsRtl
+		ADDED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.londonappbrewery.iampoor.MainActivity
+ADDED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml
+INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d4965a5b0e58eb742ed05f9b4689d5bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d4965a5b0e58eb742ed05f9b4689d5bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4d290600a62741aabb3eb471d18e70e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4d290600a62741aabb3eb471d18e70e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/eb111a37c9900a23675bd5b7e0b6ba33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/eb111a37c9900a23675bd5b7e0b6ba33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c1e36f60d61fc86acabee55f0f81bb38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c1e36f60d61fc86acabee55f0f81bb38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4b9e94bcceda53bebf643a2de145e412/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4b9e94bcceda53bebf643a2de145e412/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5de403af7b048e0a3da3d518437ba1e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5de403af7b048e0a3da3d518437ba1e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6b8069c45d95127d9ab41e4f4820bcf1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/yuliy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6b8069c45d95127d9ab41e4f4820bcf1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/yuliy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ba75abbf7ef8b9b51dda04dcb7406ca5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/yuliy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ba75abbf7ef8b9b51dda04dcb7406ca5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/yuliy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2b2260e5bb1e490257d4a042c0406871/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/yuliy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2b2260e5bb1e490257d4a042c0406871/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/yuliy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8bac10b35f07a2e2005d33286c0ed7b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/yuliy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8bac10b35f07a2e2005d33286c0ed7b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/yuliy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e004520c7227085676e16c7df578fe46/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/yuliy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e004520c7227085676e16c7df578fe46/AndroidManifest.xml:20:5-44
+INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml
+INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml
+		ADDED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml
+		ADDED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yuliy/code/Android/Udemy_01_Challenge/i-am-poor-android-yuliy-afanasiev/app/src/main/AndroidManifest.xml
